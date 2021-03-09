@@ -1,0 +1,2 @@
+# DEQUE_App
+This is a prototype app for the college journal store. The college has one counter to accept the payment for buying different journal accessories, with long waiting lines and the break time being too short for the students to make a successful purchase. This used to cause delay for writing practicals and writeups. So to solve this issue, we tried to develop a prototype app which would be using student ID as account Login and transferring the experience of physical buy into online experience, thus bypassing the long Queue.
